@@ -1,2 +1,2 @@
 # LearnGitSoft
-Sample Repo for students of LearnGitWithKash
+Sample Repo for students of GitandGitHub Class

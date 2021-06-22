@@ -1,2 +1,2 @@
 # LearnGitHub
-Sample Repo for students of GitandGitHub Class
+My first repository is nice.
